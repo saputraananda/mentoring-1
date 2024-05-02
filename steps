@@ -5,6 +5,8 @@ git init .
 git config --global user.name "saputraananda"
 git config --global user.email "saputraananda70@gmail.com"
 git add . ==> untuk memindahkan ke staging area
+git commit -m "teks pesan commit"
+
 
 
 
