@@ -6,6 +6,9 @@ git config --global user.name "saputraananda"
 git config --global user.email "saputraananda70@gmail.com"
 git add . ==> untuk memindahkan ke staging area
 git commit -m "teks pesan commit"
+git branch -M master
+git remote add origin https://github.com/saputraananda/mentoring-1.git
+git push -u origin master
 
 
 
@@ -23,6 +26,3 @@ Area dalam git
 
 
 ==================
-
-
-Ini contoh perubahan
